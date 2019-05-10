@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="Maven: io.etcd:jetcd-all:0.3.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/etcd/jetcd-all/0.3.0/jetcd-all-0.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/etcd/jetcd-all/0.3.0/jetcd-all-0.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/etcd/jetcd-all/0.3.0/jetcd-all-0.3.0-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/etcd/jetcd-all/0.3.0/jetcd-all-0.3.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../jetcd-jetcd-parent-0.3.0.zip!/jetcd-jetcd-parent-0.3.0/.mvn/wrapper" />
+      <root url="jar://$PROJECT_DIR$/../../../jetcd-jetcd-parent-0.3.0.zip!/jetcd-jetcd-parent-0.3.0/jetcd-all/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../../jetcd-jetcd-parent-0.3.0.zip!/jetcd-jetcd-parent-0.3.0/jetcd-common/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../../jetcd-jetcd-parent-0.3.0.zip!/jetcd-jetcd-parent-0.3.0/jetcd-core/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../../jetcd-jetcd-parent-0.3.0.zip!/jetcd-jetcd-parent-0.3.0/jetcd-core/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/../../../jetcd-jetcd-parent-0.3.0.zip!/jetcd-jetcd-parent-0.3.0/jetcd-examples/jetcd-ctl/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../../jetcd-jetcd-parent-0.3.0.zip!/jetcd-jetcd-parent-0.3.0/jetcd-examples/jetcd-watch/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../../jetcd-jetcd-parent-0.3.0.zip!/jetcd-jetcd-parent-0.3.0/jetcd-extensions/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../../jetcd-jetcd-parent-0.3.0.zip!/jetcd-jetcd-parent-0.3.0/jetcd-launcher-maven-plugin-test/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/../../../jetcd-jetcd-parent-0.3.0.zip!/jetcd-jetcd-parent-0.3.0/jetcd-launcher-maven-plugin/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../../jetcd-jetcd-parent-0.3.0.zip!/jetcd-jetcd-parent-0.3.0/jetcd-launcher/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../../jetcd-jetcd-parent-0.3.0.zip!/jetcd-jetcd-parent-0.3.0/jetcd-osgi/jetcd-karaf/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../../jetcd-jetcd-parent-0.3.0.zip!/jetcd-jetcd-parent-0.3.0/jetcd-osgi/jetcd-karaf/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/../../../jetcd-jetcd-parent-0.3.0.zip!/jetcd-jetcd-parent-0.3.0/jetcd-osgi/jetcd-osgi/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../../jetcd-jetcd-parent-0.3.0.zip!/jetcd-jetcd-parent-0.3.0/jetcd-resolver-dns-srv/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../../jetcd-jetcd-parent-0.3.0.zip!/jetcd-jetcd-parent-0.3.0/jetcd-resolver-dns-srv/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/../../../jetcd-jetcd-parent-0.3.0.zip!/jetcd-jetcd-parent-0.3.0/jetcd-resolver/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../../jetcd-jetcd-parent-0.3.0.zip!/jetcd-jetcd-parent-0.3.0/jetcd-resolver/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
